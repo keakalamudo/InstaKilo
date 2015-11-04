@@ -15,6 +15,16 @@
 		2B20AD561BEA8508002254F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B20AD541BEA8508002254F3 /* LaunchScreen.storyboard */; };
 		2B20AD611BEA8508002254F3 /* InstaKiloTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B20AD601BEA8508002254F3 /* InstaKiloTests.m */; };
 		2B20AD6C1BEA8508002254F3 /* InstaKiloUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B20AD6B1BEA8508002254F3 /* InstaKiloUITests.m */; };
+		2B20AD861BEAA006002254F3 /* IMG_2307.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 2B20AD7C1BEAA006002254F3 /* IMG_2307.PNG */; };
+		2B20AD871BEAA006002254F3 /* IMG_2314.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2B20AD7D1BEAA006002254F3 /* IMG_2314.JPG */; };
+		2B20AD881BEAA006002254F3 /* IMG_2318.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2B20AD7E1BEAA006002254F3 /* IMG_2318.JPG */; };
+		2B20AD891BEAA006002254F3 /* IMG_2323.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2B20AD7F1BEAA006002254F3 /* IMG_2323.JPG */; };
+		2B20AD8A1BEAA006002254F3 /* IMG_2319.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2B20AD801BEAA006002254F3 /* IMG_2319.JPG */; };
+		2B20AD8B1BEAA006002254F3 /* IMG_2317.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2B20AD811BEAA006002254F3 /* IMG_2317.JPG */; };
+		2B20AD8C1BEAA006002254F3 /* IMG_2320.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2B20AD821BEAA006002254F3 /* IMG_2320.JPG */; };
+		2B20AD8D1BEAA006002254F3 /* IMG_2327.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2B20AD831BEAA006002254F3 /* IMG_2327.JPG */; };
+		2B20AD8F1BEAA006002254F3 /* IMG_2342.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2B20AD851BEAA006002254F3 /* IMG_2342.JPG */; };
+		2B20AD911BEAA745002254F3 /* IMG_2333.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2B20AD901BEAA745002254F3 /* IMG_2333.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +61,16 @@
 		2B20AD671BEA8508002254F3 /* InstaKiloUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InstaKiloUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B20AD6B1BEA8508002254F3 /* InstaKiloUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InstaKiloUITests.m; sourceTree = "<group>"; };
 		2B20AD6D1BEA8508002254F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2B20AD7C1BEAA006002254F3 /* IMG_2307.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_2307.PNG; path = ../../../../Desktop/images/IMG_2307.PNG; sourceTree = "<group>"; };
+		2B20AD7D1BEAA006002254F3 /* IMG_2314.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_2314.JPG; path = ../../../../Desktop/images/IMG_2314.JPG; sourceTree = "<group>"; };
+		2B20AD7E1BEAA006002254F3 /* IMG_2318.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_2318.JPG; path = ../../../../Desktop/images/IMG_2318.JPG; sourceTree = "<group>"; };
+		2B20AD7F1BEAA006002254F3 /* IMG_2323.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_2323.JPG; path = ../../../../Desktop/images/IMG_2323.JPG; sourceTree = "<group>"; };
+		2B20AD801BEAA006002254F3 /* IMG_2319.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_2319.JPG; path = ../../../../Desktop/images/IMG_2319.JPG; sourceTree = "<group>"; };
+		2B20AD811BEAA006002254F3 /* IMG_2317.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_2317.JPG; path = ../../../../Desktop/images/IMG_2317.JPG; sourceTree = "<group>"; };
+		2B20AD821BEAA006002254F3 /* IMG_2320.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_2320.JPG; path = ../../../../Desktop/images/IMG_2320.JPG; sourceTree = "<group>"; };
+		2B20AD831BEAA006002254F3 /* IMG_2327.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_2327.JPG; path = ../../../../Desktop/images/IMG_2327.JPG; sourceTree = "<group>"; };
+		2B20AD851BEAA006002254F3 /* IMG_2342.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_2342.JPG; path = ../../../../Desktop/images/IMG_2342.JPG; sourceTree = "<group>"; };
+		2B20AD901BEAA745002254F3 /* IMG_2333.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_2333.JPG; path = ../../../../Desktop/images/IMG_2333.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +121,16 @@
 		2B20AD451BEA8508002254F3 /* InstaKilo */ = {
 			isa = PBXGroup;
 			children = (
+				2B20AD7C1BEAA006002254F3 /* IMG_2307.PNG */,
+				2B20AD7D1BEAA006002254F3 /* IMG_2314.JPG */,
+				2B20AD7E1BEAA006002254F3 /* IMG_2318.JPG */,
+				2B20AD7F1BEAA006002254F3 /* IMG_2323.JPG */,
+				2B20AD801BEAA006002254F3 /* IMG_2319.JPG */,
+				2B20AD811BEAA006002254F3 /* IMG_2317.JPG */,
+				2B20AD821BEAA006002254F3 /* IMG_2320.JPG */,
+				2B20AD901BEAA745002254F3 /* IMG_2333.JPG */,
+				2B20AD831BEAA006002254F3 /* IMG_2327.JPG */,
+				2B20AD851BEAA006002254F3 /* IMG_2342.JPG */,
 				2B20AD491BEA8508002254F3 /* AppDelegate.h */,
 				2B20AD4A1BEA8508002254F3 /* AppDelegate.m */,
 				2B20AD4C1BEA8508002254F3 /* ViewController.h */,
@@ -247,8 +277,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				2B20AD561BEA8508002254F3 /* LaunchScreen.storyboard in Resources */,
+				2B20AD891BEAA006002254F3 /* IMG_2323.JPG in Resources */,
+				2B20AD8C1BEAA006002254F3 /* IMG_2320.JPG in Resources */,
+				2B20AD8D1BEAA006002254F3 /* IMG_2327.JPG in Resources */,
+				2B20AD8B1BEAA006002254F3 /* IMG_2317.JPG in Resources */,
 				2B20AD531BEA8508002254F3 /* Assets.xcassets in Resources */,
+				2B20AD8F1BEAA006002254F3 /* IMG_2342.JPG in Resources */,
+				2B20AD871BEAA006002254F3 /* IMG_2314.JPG in Resources */,
 				2B20AD511BEA8508002254F3 /* Main.storyboard in Resources */,
+				2B20AD861BEAA006002254F3 /* IMG_2307.PNG in Resources */,
+				2B20AD911BEAA745002254F3 /* IMG_2333.JPG in Resources */,
+				2B20AD8A1BEAA006002254F3 /* IMG_2319.JPG in Resources */,
+				2B20AD881BEAA006002254F3 /* IMG_2318.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
