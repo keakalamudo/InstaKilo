@@ -26,6 +26,7 @@
 		2B20AD8F1BEAA006002254F3 /* IMG_2342.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2B20AD851BEAA006002254F3 /* IMG_2342.JPG */; };
 		2B20AD911BEAA745002254F3 /* IMG_2333.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2B20AD901BEAA745002254F3 /* IMG_2333.JPG */; };
 		2B20AD941BEABFE4002254F3 /* Photo.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B20AD931BEABFE4002254F3 /* Photo.m */; };
+		2B20AD971BEB0B5D002254F3 /* HeaderCollectionReusableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B20AD961BEB0B5D002254F3 /* HeaderCollectionReusableView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,6 +75,8 @@
 		2B20AD901BEAA745002254F3 /* IMG_2333.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_2333.JPG; path = ../../../../Desktop/images/IMG_2333.JPG; sourceTree = "<group>"; };
 		2B20AD921BEABFE4002254F3 /* Photo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Photo.h; sourceTree = "<group>"; };
 		2B20AD931BEABFE4002254F3 /* Photo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Photo.m; sourceTree = "<group>"; };
+		2B20AD951BEB0B5D002254F3 /* HeaderCollectionReusableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeaderCollectionReusableView.h; sourceTree = "<group>"; };
+		2B20AD961BEB0B5D002254F3 /* HeaderCollectionReusableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeaderCollectionReusableView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +144,8 @@
 				2B20AD921BEABFE4002254F3 /* Photo.h */,
 				2B20AD931BEABFE4002254F3 /* Photo.m */,
 				2B20AD4F1BEA8508002254F3 /* Main.storyboard */,
+				2B20AD951BEB0B5D002254F3 /* HeaderCollectionReusableView.h */,
+				2B20AD961BEB0B5D002254F3 /* HeaderCollectionReusableView.m */,
 				2B20AD521BEA8508002254F3 /* Assets.xcassets */,
 				2B20AD541BEA8508002254F3 /* LaunchScreen.storyboard */,
 				2B20AD571BEA8508002254F3 /* Info.plist */,
@@ -318,6 +323,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2B20AD971BEB0B5D002254F3 /* HeaderCollectionReusableView.m in Sources */,
 				2B20AD941BEABFE4002254F3 /* Photo.m in Sources */,
 				2B20AD4E1BEA8508002254F3 /* ViewController.m in Sources */,
 				2B20AD4B1BEA8508002254F3 /* AppDelegate.m in Sources */,
