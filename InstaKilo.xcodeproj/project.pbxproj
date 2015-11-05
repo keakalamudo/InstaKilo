@@ -25,6 +25,7 @@
 		2B20AD8D1BEAA006002254F3 /* IMG_2327.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2B20AD831BEAA006002254F3 /* IMG_2327.JPG */; };
 		2B20AD8F1BEAA006002254F3 /* IMG_2342.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2B20AD851BEAA006002254F3 /* IMG_2342.JPG */; };
 		2B20AD911BEAA745002254F3 /* IMG_2333.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2B20AD901BEAA745002254F3 /* IMG_2333.JPG */; };
+		2B20AD941BEABFE4002254F3 /* Photo.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B20AD931BEABFE4002254F3 /* Photo.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +72,8 @@
 		2B20AD831BEAA006002254F3 /* IMG_2327.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_2327.JPG; path = ../../../../Desktop/images/IMG_2327.JPG; sourceTree = "<group>"; };
 		2B20AD851BEAA006002254F3 /* IMG_2342.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_2342.JPG; path = ../../../../Desktop/images/IMG_2342.JPG; sourceTree = "<group>"; };
 		2B20AD901BEAA745002254F3 /* IMG_2333.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_2333.JPG; path = ../../../../Desktop/images/IMG_2333.JPG; sourceTree = "<group>"; };
+		2B20AD921BEABFE4002254F3 /* Photo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Photo.h; sourceTree = "<group>"; };
+		2B20AD931BEABFE4002254F3 /* Photo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Photo.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +138,8 @@
 				2B20AD4A1BEA8508002254F3 /* AppDelegate.m */,
 				2B20AD4C1BEA8508002254F3 /* ViewController.h */,
 				2B20AD4D1BEA8508002254F3 /* ViewController.m */,
+				2B20AD921BEABFE4002254F3 /* Photo.h */,
+				2B20AD931BEABFE4002254F3 /* Photo.m */,
 				2B20AD4F1BEA8508002254F3 /* Main.storyboard */,
 				2B20AD521BEA8508002254F3 /* Assets.xcassets */,
 				2B20AD541BEA8508002254F3 /* LaunchScreen.storyboard */,
@@ -313,6 +318,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2B20AD941BEABFE4002254F3 /* Photo.m in Sources */,
 				2B20AD4E1BEA8508002254F3 /* ViewController.m in Sources */,
 				2B20AD4B1BEA8508002254F3 /* AppDelegate.m in Sources */,
 				2B20AD481BEA8508002254F3 /* main.m in Sources */,
